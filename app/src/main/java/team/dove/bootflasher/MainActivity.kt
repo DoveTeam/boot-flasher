@@ -8,7 +8,7 @@ import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.Surface
 import androidx.compose.ui.Modifier
-import team.dove.bootflasher.ui.page.MainPage
+import team.dove.bootflasher.ui.page.main.MainPage
 import team.dove.bootflasher.ui.theme.BootFlasherTheme
 
 class MainActivity : ComponentActivity() {
